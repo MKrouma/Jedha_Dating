@@ -1,8 +1,14 @@
 # Jedha_Dating
 USA Speed dating data manipulation #block2.
 
-## Purpose
-
+## Assumptions
+- Women are looking for secrecy (money, power, studies)?
+- Men are afraid of intelligent, powerful women?
+- Women like tall men more?
+- Is communuatarism a primary attribute in the choice of a partner?
+- Older women have less chance? 
+- Is religion an important factor in the choice of partners seeking marriage?
+- More chance of getting a date if you intend to just socialize?
 
 ## Methodology
 - 1. Assumptions : from experience, internet, popularity;
