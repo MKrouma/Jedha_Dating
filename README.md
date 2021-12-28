@@ -12,7 +12,7 @@ USA Speed dating data manipulation #block2.
 
 ## Methodology
 - 1. Assumptions : from experience, internet, popularity;
-- 2. Analysis : number, graph;
+- 2. Analysis : number, graph, correlation;
 - 3. Presentation : dahsboard, powerpoint;
 - 4. Documentation : readme, procfile.
 
