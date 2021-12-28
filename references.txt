@@ -1,0 +1,5 @@
+# project 1
+link : https://github.com/martin-blais/Speed_Dating-JedhaProject/blob/main/Speed_dating.ipynb
+
+# project 2
+link : https://github.com/BastienRi/Jedha_project_speed_dating/blob/main/Jedha_data_speed_dating_project.ipynb
